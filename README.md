@@ -1,2 +1,2 @@
-# AngryBIrds-Stage-2.5
-Class inheritance.
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
